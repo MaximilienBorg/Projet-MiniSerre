@@ -1,4 +1,4 @@
-# Projet-MiniSerre
+# Projet-MiniSerre : BOTANOCTA
 
 Description :\
 Projet-Miniserre est un projet réalisé dans le cadre de notre troisième année de bachelier (BAB3) à la Polytech de Mons. Il s’agit de la conception et de la réalisation complète d’une mini-serre autonome, intégrant à la fois la partie matérielle et logicielle.
